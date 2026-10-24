@@ -1,0 +1,6 @@
+{
+  "adapter": "runs/sft_unfiltered/adapter",
+  "n": 60,
+  "task_accuracy_pct": 90.0,
+  "faithful_step_pct": 80.0
+}

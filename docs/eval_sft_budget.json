@@ -1,0 +1,6 @@
+{
+  "adapter": "runs/sft_budget/adapter",
+  "n": 60,
+  "task_accuracy_pct": 88.33333333333333,
+  "faithful_step_pct": 76.66666666666667
+}

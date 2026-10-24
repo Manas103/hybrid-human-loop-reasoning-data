@@ -1,0 +1,16 @@
+{
+  "n_total": 250,
+  "route_pct": 18.0,
+  "k_routed": 45,
+  "defect_rate_pct": 51.6,
+  "true_defective_count": 129,
+  "defects_in_routed_slice": 30,
+  "routed_slice_precision_pct": 66.66666666666667,
+  "caught_of_total_defects_pct": 21.705426356589147,
+  "budget_training_set_size": 221,
+  "ceiling_training_set_size": 117,
+  "unfiltered_training_set_size": 250,
+  "nominal_annotator_error_rate": 0.07,
+  "calibration_n": 300,
+  "calibration_realized_error_rate": 0.07333333333333333
+}
